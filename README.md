@@ -3,10 +3,12 @@
 >para esto podemos usar anaconda, instalamos y dentro de ella abrimos por ejemplo JUPYTER para algo de maching learing
 
 >hay muchas cosas pero podemos leer este archivo y comenzar hacer muchas cosas ejemplo
+
+
           import pandas as archivo
           hoja = archivo.read_csv("deportes.csv.txt")
           hoja
-          
+
 
             genero	edad	deporte
             0	1	21	Football
